@@ -1,0 +1,6 @@
+{
+  "name": "Terra & Linen E-Commerce",
+  "description": "A classy, modern, earthy-toned E-Commerce platform with client store, smart wishlist cart, direct checkout, blog, and admin management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
